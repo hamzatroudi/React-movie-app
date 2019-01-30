@@ -1,0 +1,20 @@
+img.imglist {
+    height: 271px;
+    width: 100%;
+}
+.item {
+    border: 1px solid;
+    margin-top: 9%;
+}
+.filmtitle {
+    text-align: center;
+    font-weight: bold;
+}
+.filmtitle {
+    background: aliceblue;
+    color: black;
+    padding: 1px;
+}
+.rate {
+    background-color: aliceblue;
+}

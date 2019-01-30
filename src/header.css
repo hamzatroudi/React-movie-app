@@ -1,0 +1,26 @@
+.header-container {
+    text-align: center;
+    margin-top: 3%;
+}
+
+input.search {
+    border-radius: 8px;
+    width: 23%;
+    border: 1px solid black;
+    
+}
+.rate{
+    text-align: center;
+    
+}
+.p1 {
+    color:#ffb400;
+    font-weight: bold;
+    position: relative;
+    top: 22px;
+}
+button.btn.btn-sm.btn-primary {
+    position: relative;
+    bottom: 3px;
+    left: 4px;
+}
